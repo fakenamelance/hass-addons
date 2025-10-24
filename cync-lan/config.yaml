@@ -1,4 +1,4 @@
-name: "CyncLAN Bridge"
+mename: "CyncLAN Bridge"
 version: "0.0.2b2"
 slug: "cync-lan"
 description: "Local controller for Cync/C by GE smart devices (DNS redirection required)"
@@ -68,7 +68,7 @@ map:
   - type: homeassistant_config
     read_only: false
 
-url: "https://github.com/catch0x16/hass-addons"
+url: "https://github.com/fakenamelance/hass-addons"
 host_network: true
 
 #image: "ghcr.io/baudneo/hass-addons:{arch}-cync-lan"
