@@ -1,4 +1,4 @@
-name: "CyncLAN Bridge"
+name: "CyncLAN Bridge, Lance's test"
 version: "0.0.2b2"
 slug: "cync-lan"
 description: "Local controller for Cync/C by GE smart devices (DNS redirection required)"
